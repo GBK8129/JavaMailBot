@@ -24,5 +24,7 @@ In case of an exception, the method prepareMessage will return null.
 
 In the class JavaMail, the required Email of the receiver is specified, and the class Mail is called to generate the mail.
 
-# For the Authenticator, setup of SMTP, and the use of imported packages under javax.mail, the External JARs activation-1.1.1.jar, javax.mail.jar, and smtp-1.4.5.jar were downloaded. 
+# Note
+
+For the Authenticator, setup of SMTP, and the use of imported packages under javax.mail, the External JARs activation-1.1.1.jar, javax.mail.jar, and smtp-1.4.5.jar were downloaded. 
 
